@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-08)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a6a0193`](https://github.com/stdlib-js/stdlib/commit/a6a019330f3ef2ab111a56dc060f232bf6716e32) - **refactor:** update `blas/ext/base/gnansum` to follow current project conventions [(#4639)](https://github.com/stdlib-js/stdlib/pull/4639) _(by Muhammad Haris, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Muhammad Haris
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
