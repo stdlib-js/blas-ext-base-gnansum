@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-08)
+## Unreleased (2025-02-05)
+
+<section class="features">
+
+### Features
+
+-   [`e242eb1`](https://github.com/stdlib-js/stdlib/commit/e242eb1e35da321f0e124a65f1c5e74e9be51dfe) - add accessor arrays support to `blas/ext/base/gnansum` [(#5066)](https://github.com/stdlib-js/stdlib/pull/5066)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`e242eb1`](https://github.com/stdlib-js/stdlib/commit/e242eb1e35da321f0e124a65f1c5e74e9be51dfe) - **feat:** add accessor arrays support to `blas/ext/base/gnansum` [(#5066)](https://github.com/stdlib-js/stdlib/pull/5066) _(by Muhammad Haris)_
 -   [`a6a0193`](https://github.com/stdlib-js/stdlib/commit/a6a019330f3ef2ab111a56dc060f232bf6716e32) - **refactor:** update `blas/ext/base/gnansum` to follow current project conventions [(#4639)](https://github.com/stdlib-js/stdlib/pull/4639) _(by Muhammad Haris, Athan Reines)_
 
 </details>
