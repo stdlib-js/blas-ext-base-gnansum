@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fe87ef3`](https://github.com/stdlib-js/stdlib/commit/fe87ef3f1d320867b195765cd1aec7800270e33e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`3e9f3a0`](https://github.com/stdlib-js/stdlib/commit/3e9f3a0bdc4c231521f39148dbff889815bae6d7) - **docs:** fix missing period _(by Athan Reines)_
 -   [`e242eb1`](https://github.com/stdlib-js/stdlib/commit/e242eb1e35da321f0e124a65f1c5e74e9be51dfe) - **feat:** add accessor arrays support to `blas/ext/base/gnansum` [(#5066)](https://github.com/stdlib-js/stdlib/pull/5066) _(by Muhammad Haris)_
 -   [`a6a0193`](https://github.com/stdlib-js/stdlib/commit/a6a019330f3ef2ab111a56dc060f232bf6716e32) - **refactor:** update `blas/ext/base/gnansum` to follow current project conventions [(#4639)](https://github.com/stdlib-js/stdlib/pull/4639) _(by Muhammad Haris, Athan Reines)_
@@ -36,9 +37,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 -   Muhammad Haris
 
 </section>
