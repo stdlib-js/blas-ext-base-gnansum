@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import gnansum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansum@esm/index.mjs';
+import gnansum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansum@v0.3.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansum@esm/index.mjs';
+import { ndarray } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansum@v0.3.1-esm/index.mjs';
 ```
 
 #### gnansum( N, x, strideX )
@@ -152,7 +152,7 @@ var v = gnansum.ndarray( 5, x, 2, 1 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import gnansum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansum@esm/index.mjs';
+import gnansum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-gnansum@v0.3.1-esm/index.mjs';
 
 function rand() {
     if ( bernoulli( 0.7 ) > 0 ) {
